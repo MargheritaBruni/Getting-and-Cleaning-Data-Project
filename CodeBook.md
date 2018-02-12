@@ -5,7 +5,7 @@
 There are 79 movements variable means and standard deviation per row.
 Each row is a subject.
 * Subjects are identified with an integer (1-30)
-Activity identified include walking, walking upstairs or downstairs, sitting, standing, laying
+* Activity identified include walking, walking upstairs or downstairs, sitting, standing, laying
 
 * Time mesures as floating point are provided in the X, Y and Z axis:
 ** mean and standard deviation body acceleration 
