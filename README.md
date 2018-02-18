@@ -3,7 +3,7 @@
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 Submission requirements include:
 
-*  a tidy data set,
+*  a tidy data set (tidydata.txt)
 *  a link to a Github repository with the script for performing the analysis, 
 *  a code book that describes the variables, the data, and the transformations  performed to clean up the data called CodeBook.md. 
 
