@@ -77,7 +77,7 @@ humanActivityMeans <- humanActivity %>%
     group_by(subject, activity) %>%
     summarise_each(funs(mean))
   
- write.table(humanActivityMeans, "tidy_data.txt", row.names = FALSE, 
+ write.table(humanActivityMeans, "tidydata.txt", row.names = FALSE, 
  quote = FALSE)
 
 
